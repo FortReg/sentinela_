@@ -1,0 +1,17 @@
+
+input{
+ height: 35px;
+ outline: none;
+ border: 1px solid gray;
+ border-radius: 5px;
+ padding: 8px;
+}
+
+select{
+ height: 35px;
+ outline: none;
+ border: 1px solid gray;
+ border-radius: 5px;
+ padding: 8px;
+}
+
